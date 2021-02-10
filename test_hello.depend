@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1589971676 source:c:\users\rextire\documents\code blocks\test_hello\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+	<iomanip>
+
+1590510390 source:c:\users\rextire\desktop\in-house project\banking_management_system\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+	<iomanip>
+
